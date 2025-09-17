@@ -24,5 +24,3 @@ This project is an AI-powered web application that generates descriptive caption
 3. Start the React development server
 
 ---
-
-This is a creative AI project starter. Replace the model or UI as needed for your use case.
