@@ -51,4 +51,4 @@ This project is an AI-powered web application that generates descriptive caption
 
 ---
 
-> **Note:** Replace the images in the `docs/` folder with your own banner, demo GIF, and example images for best results.
+
